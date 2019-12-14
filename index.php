@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
         <title>PHP Project</title>
-        <link rel="icon" href="#">
+        <link rel="icon" href="">
 
         <link rel="stylesheet" href="assets\fonts\inter\inter.css">
         <link rel="stylesheet" href="css\styles.css">
